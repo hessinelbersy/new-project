@@ -639,11 +639,11 @@ nav .bg-light li
 /* End TEAM */
 
 /* Media Qiery */
-@media (max-width:568px){
+@media (max-width:380px){
     
     nav .bg-light,.services ,.about-us,header .slider,.features,.why-us,.portfolio,.testmonial,.clients
     {
-        width: 155%;
+        width: 125%;
     }
     
 }
@@ -654,18 +654,14 @@ nav .bg-light li
     
 }
 }
-/* @media (min-width:550px){
-    nav #navbarSupportedContent {
-        padding: 0 0 0 250px;
-    }
-} */
+
 .dropdown-menu .pages
 {
     margin:20px 0 0 10px
 }
 @media (max-width:991px){
     .portfolio ul .row {
-        width: 80%;
+        width: 100%;
         margin: 0 auto;
     }
     
@@ -701,6 +697,7 @@ nav .bg-light li
     overflow: hidden;
     border: 1px solid #fff;
 }
+
 .box-recommended
 {
     border: 1px solid #7cc576 !important;
@@ -776,6 +773,8 @@ nav .bg-light li
     font-weight: 600;
 }
 /* End pricing */
+
+
 /* Start Asked */
 .asked .info
 {
@@ -901,6 +900,7 @@ nav .bg-light li
     display: block;
     /* padding: 15px; */
 }
+
 .contact .contact-div form textarea
 {
     width: 100%;
