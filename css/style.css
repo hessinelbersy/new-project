@@ -639,10 +639,10 @@ nav .bg-light li
 /* End TEAM */
 
 /* Media Qiery */
-@media (max-width: 567px)
+/* @media (max-width: 567px)
 nav .bg-light, .services, .about-us, header .slider, .features, .why-us, .portfolio, .testmonial, .clients {
     width: 150%;
-}
+} */
 @media (min-width: 992px){
 .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
